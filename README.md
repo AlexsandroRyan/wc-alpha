@@ -1,6 +1,17 @@
 # WC-ALPHA
 This is a custom version of the Unix command line tool wc.
 
+## Tools and languages used for this project
+
+<div style="display: flex">
+<a href="#"><img src="https://icon-library.com/images/icon-java/icon-java-6.jpg" width=50 margin: 20px></a>
+&nbsp &nbsp &nbsp &nbsp  &nbsp
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/IntelliJ_IDEA_Edu_Icon.svg/2048px-IntelliJ_IDEA_Edu_Icon.svg.png" width=50></a>
+
+	
+</div>
+  &nbsp Java &nbsp &nbsp &nbsp &nbsp &nbsp  &nbspIntelliJ &nbsp &nbsp &nbsp &nbsp
+
 ## Usage
 
 ### Example
